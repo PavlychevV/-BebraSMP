@@ -1,5 +1,5 @@
 @echo off
-title Minecraft Launcher
+title BebraSMP Launcher Console
 
 :: set username
 set player=USERNAMEPROMPT
